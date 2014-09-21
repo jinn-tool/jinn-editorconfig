@@ -15,3 +15,8 @@ module.exports = function (jinn, cb) {
 
   copy()
 }
+
+module.exports.command = {
+  flags: '-d, --editorconfig',
+  description: 'Add editorconfig support with opionate defaults'
+}
