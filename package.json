@@ -13,10 +13,5 @@
   "license": "MIT",
   "dependencies": {
     "gulp": "^3.8.8"
-  },
-  "readme": "ERROR: No README data found!",
-  "_id": "jinn-editorconfig@0.0.1",
-  "_shasum": "e0e48aec373f63a547bc22378c78a34682bd6d93",
-  "_resolved": "git://github.com/jinn-tool/jinn-editorconfig#81887b252d3aacfe69771fd8855ed2e51a45bc64",
-  "_from": "jinn-editorconfig@git://github.com/jinn-tool/jinn-editorconfig"
+  }
 }
